@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 <div>
-    
-    <a href = "https://github.com/HelmoFilho">
-    <img height = "100em src" = "https://github-readme-stats.vercel.app/api?username=helmofilho">
-    <\a>
-    ![HelmoFilho's github stats](https://github-readme-stats.vercel.app/api?username=HelmoFilho)
-         
-
+    <img height = "100em" src = "https://github-readme-stats.vercel.app/api?username=HelmoFilho&show_icons=true&theme=merko">
+    <img height = "100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HelmoFilho&layout=compact">    
 </div>
