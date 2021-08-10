@@ -12,6 +12,5 @@
     <img height = "40" width = "40" alt = "Helmo-python" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
     <img height = "40" width = "40" alt = "Helmo-jupyter" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg'>
     <img height = "40" width = "40" alt = "Helmo-mysql" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg'>
-    <img height = "40" width = "40" alt = "Helmo-python" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
 </div>
 
