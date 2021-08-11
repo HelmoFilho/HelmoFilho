@@ -12,8 +12,8 @@
 
 <div>
     <a href = "https://steamcommunity.com/id/berawecker09/" target = "_blank"> <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> </a>
-    <a href = "nin.codes/helmoswitch" target = "_blank"> <img src = "https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> </a>
-    <a href = "nin.codes/helmo3ds" target = "_blank"> <img src = "https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> </a>
+    <a href = "https://nin.codes/helmoswitch" target = "_blank"> <img src = "https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"> </a>
+    <a href = "https://nin.codes/helmo3ds" target = "_blank"> <img src = "https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"> </a>
 
 </div>
 
