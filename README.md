@@ -1,5 +1,7 @@
 ## Hi there - My name is Helmo 😎
 
+- to complete
+
 <div>
     <a href = "mailto:helmofilho09@gmail.com" target = "_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  </a>
     <a href = "https://www.instagram.com/helmofilho09/" target = "_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
@@ -8,7 +10,7 @@
     <a href = "http://www.linkedin.com/in/helmo-filho-02370b141" target = "_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
-<br/>
+<hr/>
 
 <div>
     <a href = "https://steamcommunity.com/id/berawecker09/" target = "_blank"> <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> </a>
@@ -18,7 +20,7 @@
 
 </div>
 
-<br/>
+<hr/>
 
 <div>
     <img height = "175em" align = "left" src = "https://github-readme-stats.vercel.app/api?username=HelmoFilho&show_icons=true&theme=merko&include_all_commits=true">
