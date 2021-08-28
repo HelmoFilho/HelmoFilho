@@ -3,7 +3,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 Graduating at Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Fortaleza Campus. I am a bachelor's student in Mechatronics Engineering. 
-- :man_technologist: Right now im a junior Back-end developer at ASK TECHNOLOGY ltda 
+- :man_technologist: Right now i am a junior Back-end developer at ASK TECHNOLOGY ltda 
 - 💼 Here on GitHub you can find all my portfolio in python and other programming languages. If you find anything interesting, you can use it.
 - 🎯 You can find me here on github or in these media below: 
 
@@ -31,10 +31,10 @@
     <img align = "center" height = "40" width = "40" alt = "Helmo-dart" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "Helmo-html" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "Helmo-python" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
+    <img align = "center" height = "40" width = "40" alt = "Helmo-flask" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "Helmo-jupyter" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg'>
     <img align = "center" height = "40" width = "40" alt = "Helmo-mysql" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "Helmo-sqlite" src='https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg'>
-
 </div>
 
 </br>
