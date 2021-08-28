@@ -3,7 +3,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 Graduating at Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Fortaleza Campus. I am a bachelor's student in Mechatronics Engineering. 
-- :man_technologist: Right now im a junior Back-end developer as ASK TECHNOLOGY ltda 
+- :man_technologist: Right now im a junior Back-end developer at ASK TECHNOLOGY ltda 
 - 💼 Here on GitHub you can find all my portfolio in python and other programming languages. If you find anything interesting, you can use it.
 - 🎯 You can find me here on github or in these media below: 
 
