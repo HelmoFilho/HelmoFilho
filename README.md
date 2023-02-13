@@ -31,9 +31,11 @@
     <img align = "center" height = "40" width = "40" alt = "flask" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "fastapi" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "jupyter" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg'>
+    <img align = "center" height = "40" width = "40" alt = "opencv" src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg'>
     <img align = "center" height = "40" width = "40" alt = "sqlserver" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg'>
     <img align = "center" height = "40" width = "40" alt = "mysql" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg'>
-    <img align = "center" height = "40" width = "40" alt = "sqlite" src='https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg'>
+    <img align = "center" height = "40" width = "40" alt = "postgres" src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg'>
+    <img align = "center" height = "40" width = "40" alt = "docker" src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg'>
 </div>
 
 </br>
